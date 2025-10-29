@@ -248,7 +248,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     consumerir.msm8953 \
     gf_fingerprint.goodix.default \
-    fingerprint.msm8953 \
+    fingerprint.fpc.default \
     lib_fpc_tac_shared \
     libgf_algo \
     libgf_ca \
